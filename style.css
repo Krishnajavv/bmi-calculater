@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    
 }
 
 nav img{
@@ -63,10 +64,13 @@ nav{
 }
 .bmi2{
     display: flex;
-    background-color: white;
+    background: linear-gradient(white,brown);
     width: 800px;
     margin-left: 50px;
 }
 .bmi2 .b2{
     margin-left: 50px;
+}
+.b3{
+    background: linear-gradient(to right, white,brown);
 }
